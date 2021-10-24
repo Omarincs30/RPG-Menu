@@ -8,10 +8,10 @@ following actions: Go hunting, Go fishing, Go swimming, Go sleep, or Quit.''')
 while True:
  choice = input("Action:")
 # The first choice starts here.
- if choice == "Go hunting":
+ if choice == "Go Hunting":
    print("You go hunting and you managed to hunt 2 deer.")
    (hunting) = input("Do you want to keep hunting or prepare the food: ")
-   if hunting == "keep Hunting":
+   if hunting == "Keep Hunting":
     print("you we hunting again and managed to get another 3")
    elif hunting == "Prepare The Food":
     print("You prepared a nice meal with the deer you hunted.")
@@ -26,7 +26,7 @@ while True:
    (fishing) = input("Do you want to keep fishing or prepare the food: ")
    if fishing == "Keep Fishing":
     print("You went fishing and found a lobster.")
-   elif fishing == "Prepare the food":
+   elif fishing == "Prepare The Food":
     print("you prepared a Delicious meal with your fishes and crab.")
    elif choice == "Quit":
     print("Goodbye.")
