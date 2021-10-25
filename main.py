@@ -1,6 +1,6 @@
 # Omar Diaa Abdelhaleem Abdullat
 # Computer Science 30
-# September 22, 2021
+# October 22, 2021
 # RPG Simple menu
 print("Welcome to Omar's very own game")
 print('''Hello, welcome to my game, let's get started by completing one of the
